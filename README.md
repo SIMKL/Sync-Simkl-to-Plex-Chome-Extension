@@ -6,3 +6,12 @@ Currently under development
 
 Instructions for beta testing are [here](docs/BETA.md)
 
+## Development
+
+[nix](https://nixos.org/download/#download-nix) is a requirement.
+
+```shell
+nix develop # or direnv allow
+```
+
+- TBA/TODO

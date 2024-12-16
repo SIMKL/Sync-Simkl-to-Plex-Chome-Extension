@@ -11,3 +11,4 @@ qunit-results.png
 
 # chrome generates this
 _metadata/
+.direnv

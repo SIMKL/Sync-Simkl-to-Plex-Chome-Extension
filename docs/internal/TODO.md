@@ -26,6 +26,8 @@
   - [x] concluded to be not needed ~~Add thanks for install message conditionally if in full tab.~~
 - [x] Redirect to uninstalled feedback page once uninstalled.
 - [ ] All the other minor todos and fixmes scattered across the code.
+- [x] Nix flake only for dev.
+  - ci should not use nix! (lack of win support and not everyone knows of it)
 - [x] a script to launch chromium/firefox with extension installed
   - [ ] normal usage of extension in existing browser. (to avoid any bugs which occur in non-fresh installs)
 - [ ] windows scripts
