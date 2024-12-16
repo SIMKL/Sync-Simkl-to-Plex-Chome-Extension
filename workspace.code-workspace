@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./scripts/mockplex"
+		},
+		{
+			"path": "./scripts/logger"
+		},
+		{
+			"path": "./scripts/anidb"
+		},
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"golang.go",
+			"redhat.vscode-yaml"
+		]
+	}
+}

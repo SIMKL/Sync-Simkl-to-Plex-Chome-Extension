@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/popup.html#declarative-redirect"
+      }
+    },
+    "condition": {
+      "urlFilter": "http://edjlcleicmcdpapdcobooenkchaehdib/*",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
